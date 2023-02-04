@@ -1,0 +1,136 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* .container{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+} */
+.navnew{
+    position: absolute;
+    top: 115px;
+    width: 100%;
+    z-index: 2;
+}
+.rightnew{
+    position: absolute;
+    right: 60px;
+}
+.rightnew ul{
+    margin-top: 7px;
+}
+.rightnew ul .li1{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 10px;
+    /* padding: 7px; */
+    color: #000;
+}
+.rightnew ul .li1:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul .li2{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 10px;
+    color: #000;
+}
+.rightnew ul .li2:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul .li3{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 10px;
+    color: #000;
+}
+.rightnew ul .li3:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul .li4{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 10px;
+    color: #000;
+}
+.rightnew ul .li4:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul .li5{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 10px;
+    color: #000;
+}
+.rightnew ul .li5:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul .li6{
+    display: unset;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding-right: 240px;
+    color: #000;
+}
+.rightnew ul .li6:hover{
+    font-weight: bold;
+    /* transition: 3s; */
+}
+.rightnew ul a{
+    text-decoration: none;
+}
+.tag img{
+    position: absolute;
+    top: -27px;
+    left: 26px;
+    z-index: 2;
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+    margin-left:80px;
+}
+
+
+
+.ls{
+    position: absolute;
+    top: -27px;
+    left: 26px;
+    z-index: 2;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    margin-left:80px;
+    position: absolute;
+    top: -27px;
+    left: 26px;
+    z-index: 2;
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+    margin-left:1200px;
+    margin-top: 40px;
+}
